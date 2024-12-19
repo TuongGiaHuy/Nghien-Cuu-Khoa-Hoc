@@ -1,0 +1,8 @@
+dotenv
+shutil
+docx
+yaml
+openai
+subprocess
+matplotlib
+pandas

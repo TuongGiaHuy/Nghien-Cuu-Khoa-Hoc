@@ -468,7 +468,7 @@ class Ui_Form_ResultFinal(object):
         self.tentieude_2.setText(_translate("Form", "Pha đã di chuyển"))
         self.PRINTER.setText(_translate("Form", "In tải chuyển"))
         self.tenappviettat.setText(_translate("Form", "<html><head/><body><p>Phần mềm cân bằng pha</p></body></html>"))
-        self.tenappviettat_2.setText(_translate("Form", "<html><head/><body><p>Nguyễn Trung Hiếu-Trường đại học điện lực</p></body></html>"))
+        self.tenappviettat_2.setText(_translate("Form", "<html><head/><body><p>Tưởng Gia Huy-Trường đại học điện lực</p></body></html>"))
         self.tentieude.setText(_translate("Form", "Phương án cân bằng pha đề xuất"))
         self.dudoan.setText(_translate("Form", "Dự Đoán Từ AI"))
         
@@ -1285,7 +1285,7 @@ class Ui_Form_DataTram(object):
         self.name.setText(_translate("Form", "Trạm:"))
         self.tenappviettat.setText(_translate("Form", "<html><head/><body><p>Phần mềm chuyển tải cân bằng pha</p></body></html>"))
         self.CAN_DAO_PHA.setText(_translate("Form", "Cân đảo pha"))
-        self.tenappviettat_2.setText(_translate("Form", "<html><head/><body><p>Nguyễn Trung Hiếu-Trường đại học điện lực</p></body></html>"))
+        self.tenappviettat_2.setText(_translate("Form", "<html><head/><body><p>Tưởng Gia Huy-Trường đại học điện lực</p></body></html>"))
 
 class Ui_Form_Name(object):
     def setupUi_Name(self, Form):
@@ -1558,7 +1558,7 @@ class Ui_MainWindow(object):
         self.Chon_tram.setItemText(1, _translate("MainWindow", "Điều kiện xác định"))
         self.Chon_tram.setItemText(2, _translate("MainWindow", "Nhập dữ liệu"))
         self.SAMPLE_EXCEL.setText(_translate("MainWindow", "Download file excel mẫu"))
-        self.tenappviettat_3.setText(_translate("MainWindow", "<html><head/><body><p>Nguyễn Trung Hiếu-Trường đại học điện lực</p></body></html>"))                                                                                                                                                
+        self.tenappviettat_3.setText(_translate("MainWindow", "<html><head/><body><p>Tưởng Gia Huy-Trường đại học điện lực</p></body></html>"))                                                                                                                                                
         self.tenappviettat_4.setText(_translate("MainWindow", "<html><head/><body><p>PHẦN MỀM CHUYỂN TẢI CÂN BẰNG PHA</p></body></html>"))
 
                                                       
